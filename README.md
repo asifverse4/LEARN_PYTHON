@@ -7,7 +7,7 @@ A comprehensive, curated list of the best free and paid resources to learn Pytho
 GitHub starsGitHub forks
 
 
-📚 Table of Contents
+                                                                                                 📚 Table of Contents
 
 🧭 Learning Roadmap
 
