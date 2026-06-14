@@ -8,16 +8,27 @@ GitHub starsGitHub forks
 
 
 📚 Table of Contents
+
 🧭 Learning Roadmap
+
 📖 Phase-by-Phase Guide
+
 🚀 Interactive Platforms
+
 🎥 Video Courses & YouTube Channels
+
 📚 Text-Based Resources & Books
+
 🔧 Advanced Python Resources
+
 🌐 Community & Practice
+
 🎯 Resources by Goal
+
 💡 How to Get Started
+
 🤝 Contributing
+
 
 
 🚀 Interactive Learning Platforms
